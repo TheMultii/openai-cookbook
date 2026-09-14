@@ -15,6 +15,7 @@ provider compute; each example documents cleanup of both.
 sandboxes/
 ├── application_managed/
 │   ├── blaxel/main.py
+│   ├── buddy/main.py
 │   ├── cloudflare/      # Python application + provisioning Worker
 │   ├── daytona/main.py
 │   ├── digitalocean/    # Python application + sandbox manifest

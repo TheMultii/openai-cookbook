@@ -14,6 +14,7 @@ input, streams the result, then cleans up both the sandbox and session.
 | Provider | Application and provisioning code | Setup |
 | --- | --- | --- |
 | Blaxel | [blaxel/main.py](blaxel/main.py) | [Run with Blaxel](blaxel/README.md) |
+| Buddy | [buddy/main.py](buddy/main.py) | [Run with Buddy](buddy/README.md) |
 | Cloudflare | [cloudflare/main.py](cloudflare/main.py) + Worker | [Run with Cloudflare](cloudflare/README.md) |
 | Daytona | [daytona/main.py](daytona/main.py) | [Run with Daytona](daytona/README.md) |
 | DigitalOcean | [digitalocean/main.py](digitalocean/main.py) | [Run with DigitalOcean](digitalocean/README.md) |
